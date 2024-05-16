@@ -1,0 +1,27 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Account-specific configuration and signing material
+app/google-services.json
+*.jks
+*.keystore
+keystore.properties
+.env
+
+# Generated release artifacts
+*.apk
+*.aab
+app/release/
