@@ -1,3 +1,4 @@
 [2024-05-16 20:25:31 +0530] Add shimmer loading effect for home screen products
 [2024-05-17 18:59:35 +0530] Clean up unused resources and drawables
 [2024-05-19 12:48:32 +0530] Optimize RecyclerView performance using DiffUtil
+[2024-05-19 12:29:06 +0530] Enable ProGuard and R8 for release build obfuscation
