@@ -3,3 +3,4 @@
 [2024-05-19 12:48:32 +0530] Optimize RecyclerView performance using DiffUtil
 [2024-05-19 12:29:06 +0530] Enable ProGuard and R8 for release build obfuscation
 [2024-05-21 22:11:36 +0530] Create User model and save user profile to Firestore
+[2024-05-21 17:23:19 +0530] Implement CartFragment to display added items
