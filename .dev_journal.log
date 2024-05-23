@@ -5,3 +5,4 @@
 [2024-05-21 22:11:36 +0530] Create User model and save user profile to Firestore
 [2024-05-21 17:23:19 +0530] Implement CartFragment to display added items
 [2024-05-22 09:09:59 +0530] Final code review and formatting with ktlint
+[2024-05-23 14:22:22 +0530] Create MVVM package structure (di, ui, data, domain)
