@@ -11,3 +11,4 @@
 [2024-05-25 11:05:54 +0530] Fix memory leak in CheckoutFragment Stripe listener
 [2024-05-28 19:17:41 +0530] Design custom toolbar with cart icon and notification badge
 [2024-05-28 16:41:45 +0530] Update README with highly detailed setup instructions
+[2024-05-28 09:28:24 +0530] Add architecture diagram to documentation
