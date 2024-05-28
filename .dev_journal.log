@@ -9,3 +9,4 @@
 [2024-05-25 16:15:42 +0530] Handle successful payment callbacks and clear cart
 [2024-05-25 18:34:47 +0530] Add functionality to update user profile picture
 [2024-05-25 11:05:54 +0530] Fix memory leak in CheckoutFragment Stripe listener
+[2024-05-28 19:17:41 +0530] Design custom toolbar with cart icon and notification badge
