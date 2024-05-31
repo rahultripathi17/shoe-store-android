@@ -16,3 +16,4 @@
 [2024-05-29 13:01:30 +0530] Implement Stripe PaymentSheet for secure card checkout
 [2024-05-31 09:27:58 +0530] Create Firebase Auth repository for email/password login
 [2024-05-31 15:19:49 +0530] Update typography to use custom Google Fonts (Poppins)
+[2024-05-31 16:37:37 +0530] Implement Order History screen for users
