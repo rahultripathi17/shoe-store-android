@@ -17,3 +17,4 @@
 [2024-05-31 09:27:58 +0530] Create Firebase Auth repository for email/password login
 [2024-05-31 15:19:49 +0530] Update typography to use custom Google Fonts (Poppins)
 [2024-05-31 16:37:37 +0530] Implement Order History screen for users
+[2024-06-01 22:18:26 +0530] Implement WishlistFragment to show saved shoes
