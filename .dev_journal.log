@@ -19,3 +19,4 @@
 [2024-05-31 16:37:37 +0530] Implement Order History screen for users
 [2024-06-01 22:18:26 +0530] Implement WishlistFragment to show saved shoes
 [2024-06-03 22:21:42 +0530] Add Lottie animations for payment success screen
+[2024-06-03 14:52:45 +0530] Fix bug where cart total calculates incorrectly on quantity change
