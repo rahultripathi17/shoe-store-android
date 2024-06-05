@@ -21,3 +21,4 @@
 [2024-06-03 22:21:42 +0530] Add Lottie animations for payment success screen
 [2024-06-03 14:52:45 +0530] Fix bug where cart total calculates incorrectly on quantity change
 [2024-06-05 17:04:44 +0530] Add swipe-to-delete functionality in Cart RecyclerView
+[2024-06-05 10:26:32 +0530] Write unit tests for Cart calculations and Room Dao
