@@ -26,3 +26,4 @@
 [2024-06-07 20:37:18 +0530] Add multi-language support (English and Spanish strings)
 [2024-06-09 17:50:38 +0530] Add custom haptic feedback when adding items to cart
 [2024-06-09 15:50:16 +0530] Implement search debounce using Kotlin Flow
+[2024-06-09 22:19:07 +0530] Create Cart local database using Room ORM
