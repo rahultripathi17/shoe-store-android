@@ -29,3 +29,4 @@
 [2024-06-09 22:19:07 +0530] Create Cart local database using Room ORM
 [2024-06-10 19:47:34 +0530] Create ProductDetailsFragment UI layout
 [2024-06-10 20:00:38 +0530] Add dynamic colors support for Android 12+ Material You
+[2024-06-12 09:32:30 +0530] Implement UI tests for login flow using Espresso
