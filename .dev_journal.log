@@ -30,3 +30,4 @@
 [2024-06-10 19:47:34 +0530] Create ProductDetailsFragment UI layout
 [2024-06-10 20:00:38 +0530] Add dynamic colors support for Android 12+ Material You
 [2024-06-12 09:32:30 +0530] Implement UI tests for login flow using Espresso
+[2024-06-12 15:08:32 +0530] Add privacy policy and terms of service WebViews
