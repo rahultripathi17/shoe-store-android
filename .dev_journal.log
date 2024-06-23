@@ -39,3 +39,4 @@
 [2024-06-18 10:35:33 +0530] Create custom CardView design for shoe items with shadows
 [2024-06-22 21:27:33 +0530] Write unit tests for Authentication validation logic
 [2024-06-22 12:34:36 +0530] Add search filters for Price (High/Low) and Brand
+[2024-06-23 09:16:43 +0530] Implement RegisterFragment UI and connect to Firebase Auth
