@@ -44,3 +44,4 @@
 [2024-06-26 18:44:20 +0530] Include GIF of checkout flow in README
 [2024-06-26 17:24:18 +0530] Implement shared element transition for smooth product opening
 [2024-06-28 16:59:10 +0530] Fix minor padding issue in category chips
+[2024-06-28 22:02:52 +0530] Add Google Places autocomplete for address filling
