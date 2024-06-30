@@ -47,3 +47,4 @@
 [2024-06-28 22:02:52 +0530] Add Google Places autocomplete for address filling
 [2024-06-29 22:29:58 +0530] Fix layout constraint issues on smaller screen devices
 [2024-06-30 20:44:44 +0530] Implement CartDao for insert, update quantity, and delete
+[2024-06-30 14:05:37 +0530] Load shoe images from Firebase Storage using Glide
