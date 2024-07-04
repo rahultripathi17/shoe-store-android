@@ -48,3 +48,4 @@
 [2024-06-29 22:29:58 +0530] Fix layout constraint issues on smaller screen devices
 [2024-06-30 20:44:44 +0530] Implement CartDao for insert, update quantity, and delete
 [2024-06-30 14:05:37 +0530] Load shoe images from Firebase Storage using Glide
+[2024-07-04 12:36:41 +0530] Implement deep linking to open specific shoe products from URLs
