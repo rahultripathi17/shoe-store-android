@@ -50,3 +50,4 @@
 [2024-06-30 14:05:37 +0530] Load shoe images from Firebase Storage using Glide
 [2024-07-04 12:36:41 +0530] Implement deep linking to open specific shoe products from URLs
 [2024-07-04 13:03:00 +0530] Create Shoe product data class with size and color variants
+[2024-07-06 09:41:42 +0530] Create Wishlist feature using Room database
