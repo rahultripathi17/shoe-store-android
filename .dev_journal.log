@@ -52,3 +52,4 @@
 [2024-07-04 13:03:00 +0530] Create Shoe product data class with size and color variants
 [2024-07-06 09:41:42 +0530] Create Wishlist feature using Room database
 [2024-07-08 18:27:00 +0530] Add logic to calculate average product rating
+[2024-07-09 12:52:25 +0530] Add onboarding ViewPager for new users
