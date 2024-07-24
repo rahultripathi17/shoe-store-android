@@ -64,3 +64,4 @@
 [2024-07-20 22:21:31 +0530] Add order status tracking UI (Processing, Shipped, Delivered)
 [2024-07-24 11:56:25 +0530] Optimize app startup time using App Startup library
 [2024-07-24 09:05:31 +0530] Fix crash on Android 12 related to PendingIntents
+[2024-07-24 17:30:00 +0530] Final publish of Shoe Ecommerce project
